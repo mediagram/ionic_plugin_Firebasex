@@ -1,5 +1,5 @@
 {
-  "name": "@mediagram/ionic-plugin-Firebasex",
+  "name": "@mediagram/ionic_plugin_Firebasex",
   "version": "0.0.1",
   "description": "Cordova plugin for Google Firebase",
   "types": "./types/index.d.ts",
@@ -12,7 +12,7 @@
     "url": "https://github.com/mediagram/ionic_plugin_Firebasex"
   },
   "cordova": {
-    "id": "ionic-plugin-Firebasex",
+    "id": "ionic_plugin_Firebasex",
     "platforms": [
       "android",
       "ios"
